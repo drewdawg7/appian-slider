@@ -30,7 +30,7 @@
     <type>Integer</type>
   </parameter>
   <parameter>
-    <name>min</name>
+    <name>max</name>
     <category>input-only</category>
     <type>Integer</type>
   </parameter>
